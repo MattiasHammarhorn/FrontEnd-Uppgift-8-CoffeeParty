@@ -1,3 +1,7 @@
 body {
-    background-color: #767c76 !important;
+    background-color: #81c281 !important;
+}
+
+nav > ul > li > a {
+    color: white !important;
 }
